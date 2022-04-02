@@ -180,3 +180,10 @@ body {
   }
 }
 
+.logo {
+  color: black;
+  font-family: 'Nunito';
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
